@@ -123,7 +123,7 @@ public class Main {
         System.out.println(" разница после повышение зарплаты Дениса " + denisDifference);
         float kristinaYearsOne = kristina * 12;
         System.out.println(" за первый год работы Кристины " + kristinaYearsOne );
-        float kristinaYaersTwo = kristinaTwo * 12;
+        float kristinaYaersTwo = kristinaTwo *  12;
         System.out.println(" после повышение зарабаток за год у Кристины " + kristinaYaersTwo );
         float kristinaDifference = kristinaYaersTwo - kristinaYearsOne;
         System.out.println(" разница после повышение зарплаты Кристины " + kristinaDifference );
